@@ -1,0 +1,74 @@
+c:\users\ito\documents\visual studio 2015\Projects\ASFIMA\ASFIMA\bin\Debug\ASFIMA.exe.config
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.vbprojResolveAssemblyReference.cache
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Cuerpos_planos.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Ecuaciones_cuadráticas.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Funciones_cuadráticas.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Funciones_lineales.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Inicio.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Proceso_funciones_cuadráticas.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.vbproj.GenerateResource.Cache
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\bin\Debug\ASFIMA.exe
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\bin\Debug\ASFIMA.pdb
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\bin\Debug\ASFIMA.xml
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Resources.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.exe
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.xml
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.pdb
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.MRU.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.MRUA.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.MCU.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Tres_variables_proceso.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Conversiones.resources
+C:\Users\Ito\Documents\Visual Studio 2015\Projects\ASFIMA\ASFIMA\obj\Debug\ASFIMA.Ley_Coulomb.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Conversiones.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Cuerpos_planos.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Cuerpos_sólidos.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ecuaciones_cuadráticas.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Funciones_cuadráticas.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Funciones_lineales.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Inicio.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ley_Coulomb.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MCU.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MRU.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MRUA.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Resources.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Proceso_funciones_cuadráticas.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Tres_variables_proceso.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.vbproj.GenerateResource.Cache
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.exe
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.xml
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.pdb
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.exe.config
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.exe.manifest
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.application
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.exe
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.pdb
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.xml
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.vbprojResolveAssemblyReference.cache
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.exe.manifest
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.application
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ley_de_ohm.resources
+H:\Proyectos\Feria Científica 2015\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Hidrostática.resources
+E:\ASFIMA v1.0\ASFIMA\bin\Debug\ASFIMA.exe.config
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.exe
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.xml
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.pdb
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.vbprojResolveAssemblyReference.cache
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Conversiones.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Cuerpos_planos.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Cuerpos_sólidos.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ecuaciones_cuadráticas.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Funciones_cuadráticas.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Funciones_lineales.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Hidrostática.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Inicio.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ley_Coulomb.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Ley_de_ohm.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MCU.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MRU.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.MRUA.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Resources.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Proceso_funciones_cuadráticas.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Tres_variables_proceso.resources
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.vbproj.GenerateResource.Cache
+E:\ASFIMA v1.0\ASFIMA\obj\Debug\ASFIMA.Densidad.resources
