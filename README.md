@@ -5,7 +5,7 @@ Costa Rica
 
 Brown, Belinda <br/>
 Castillo, Aymarú <br/>
-Muñóz, Erick <br/>
+Muñoz, Erick <br/>
 
 Abril, 2015
 
